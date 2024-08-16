@@ -45,7 +45,7 @@ Here is the graph between original values and values of FD calculated by our alg
 - Devised an algorithm to convert an image into a matrix
 - Implemented the algorithm used in phase flow diagram to calculate fractal dimension
 - Able to segregate the images to some extent based on our algorithm but it still needs to be reviewed for precision
-- Yet to train the AI model for concluding our project which we have decided to do in the summer
+- Yet to train the AI model for concluding our project
 
 ## Possible Improvements
 - Resize all images to 256×256, which might cause information loss for larger images and incorrect info for smaller images
